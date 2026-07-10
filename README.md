@@ -65,8 +65,16 @@ Don't get lost in the old versions! Go straight to **`agent/my_agent_v20/`** (Th
 **3. ⚔️ See the Meta-hacks:**
 Take a look at **`agent/my_agent_v24/`** (The True King) to see our experimental "Late-game Frenzy Mode" where we manipulated the game's tie-breaker rules (farming boxes and spamming safe bombs when idle).
 
-**4. 🔄 Explore the Evolution:**
+**4. 🔄 Explore the Evolution (Quá trình thử nghiệm):**
 Want to see how we grew? Browse the `agent/archive_old_versions/` directory to see our journey from a basic bot that kept crashing (Timeout) to a highly optimized agent.
+
+> **Our Development Journey (Từ con số 0 đến Top 9):**
+> * **V1 - V9 (The Struggle):** Khởi đầu với những dòng code rule-based thô sơ. Bot liên tục bị timeout, tự đặt bom tự sát hoặc kẹt vào góc tường. 
+> * **V10 - V19 (The A* Breakthrough):** Bước ngoặt lớn. Chúng tôi dành nhiều đêm để debug thuật toán tìm đường A* và quét an toàn BFS (Breadth-First Search). Bot đã biết "né bom" để sinh tồn, nhưng chưa thực sự biết cách tấn công hiệu quả.
+> * **V20 - V21 (The Honored One):** Đỉnh cao thuật toán. Đập đi xây lại toàn bộ với kiến trúc "7-Layer Behavior Tree" (Cây hành vi 7 lớp ưu tiên). Bot đã biết linh hoạt chuyển đổi giữa Trốn chạy - Săn mồi - Phá gỗ tùy tình huống. Phiên bản V20 chính thức đưa team vào Top 9 Global.
+> * **V24 (The True King):** Vượt qua tư duy lập trình thông thường để đánh "Meta-game". Khi phát hiện ra luật Tie-breaker (hòa sẽ xét điểm), chúng tôi code thêm tính năng "Frenzy Mode" - tối ưu cơ chế farm gỗ tự động trong giai đoạn cuối game để giành chiến thắng bằng điểm số.
+> 
+> *Bài học quý giá nhất của team không phải là tìm ra thuật toán hoàn hảo ngay từ đầu, mà là sự kiên trì phân tích log của hàng trăm trận đấu thất bại, từ đó liên tục đập đi xây lại kiến trúc để tối ưu từng millisecond xử lý.*
 
 *(Note: We only kept `submission_v20.zip`, `submission_v21.zip`, and `submission_v24.zip` in the root folder as our official compiled tournament submissions. The rest were cleaned up for readability.)*
 
