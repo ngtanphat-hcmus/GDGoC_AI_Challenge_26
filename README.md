@@ -19,6 +19,14 @@
 
 ---
 
+## 🤖 Human-AI Collaborative Development
+
+This project embraces the modern **Human-AI Collaborative Engineering** approach. While the core strategic logic, architectural design (such as the 7-Layer Behavior Tree), and algorithmic ideas were conceived and directed entirely by our team members, approximately 60-70% of the raw codebase was generated and iteratively refined with the assistance of Large Language Models (LLMs). 
+
+This hybrid methodology allowed us to rapidly prototype, debug complex A* pathfinding edge cases, and focus strictly on high-level meta-game optimizations rather than manual syntax implementation. It demonstrates our ability to not just write code, but to effectively manage and guide AI tools to solve complex competitive programming problems under strict time constraints.
+
+---
+
 ## 🏆 The Journey & Story
 In this 4-player Battle Royale Bomberland game, agents must collect power-ups, break wooden boxes, and blow up opponents while avoiding their own death. 
 
