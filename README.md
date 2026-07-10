@@ -98,3 +98,9 @@ This project was a collaborative effort. We split the workload to move fast, and
 ```bash
 python main.py --agent agent/my_agent_v20 --players 4 --render
 ```
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
