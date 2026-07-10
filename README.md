@@ -94,8 +94,8 @@ Want to see how we grew? Browse the `agent/archive_old_versions/` directory to s
 
 This project was a collaborative effort. We split the workload to move fast, and both of us used AI tools to speed up the coding process.
 
-* **Nguyễn Tấn Phát (Project Lead & Repo Author):** Guided the overall project direction and ideas. Responsible for setting up the testing environment, game engine integration, and CI/CD pipelines. Authored, designed, and structured this entire GitHub repository as a comprehensive portfolio to showcase the team's engineering journey. Also proposed the first algorithmic approaches and used AI to quickly build the early baseline models, which set a strong foundation for the team.
-* **Hoàng Kim Phát Tài (Core Algorithm Developer):** Focused on designing the detailed AI logic, specifically the 7-Layer Behavior Tree. Worked closely with AI models to write complex algorithms like A* pathfinding and BFS. Spent a lot of time debugging AI-generated code to fix server timeouts and make the tie-breaker strategies work.
+* **Nguyễn Tấn Phát (Project Lead):** Guided the overall project direction and ideas. Responsible for setting up the initial GitHub repository, CI/CD, game engine integration, and the testing environment. Also proposed the first algorithmic approaches and used AI to quickly build the early baseline models, which set a strong foundation for the team.
+* **Hoàng Kim Phát Tài (Core Algorithm Developer & Repo Author):** Focused on designing the detailed AI logic, specifically the 7-Layer Behavior Tree. Worked closely with AI models to write complex algorithms like A* pathfinding and BFS. Spent a lot of time debugging AI-generated code to fix server timeouts and make the tie-breaker strategies work. Authored, designed, and structured this entire GitHub repository as a comprehensive portfolio to showcase the team's engineering journey.
 
 
 ---
