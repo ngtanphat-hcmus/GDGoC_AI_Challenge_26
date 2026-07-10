@@ -9,8 +9,8 @@
 <h3 align="center">Team: Westside Fetel</h3>
 
 <p align="center">
-  <img src="Westside%20Fetel_P1.jpg" alt="Top 20 Certificate Phát" width="45%" />
-  <img src="Westside%20Fetel_P2.jpg" alt="Top 20 Certificate Tài" width="45%" />
+  <img src="Westside_Fetel_P1.jpg" alt="Top 20 Certificate Phát" width="45%" />
+  <img src="Westside_Fetel_P2.jpg" alt="Top 20 Certificate Tài" width="45%" />
 </p>
 
 <p align="center">
