@@ -51,15 +51,24 @@ Our AI features a **Late-game Frenzy Mode**: If `step > 350`, it prioritizes bre
 
 ---
 
-## 📁 Repository Structure
+## 🗺️ How to Navigate This Repository (Hướng dẫn xem code)
 
-To keep the repository clean and professional, we have isolated our best-performing models in the `agent/` directory:
+If you are a recruiter, an AI enthusiast, or just curious about our solution, here is the recommended path to explore this project:
 
-- 📂 `agent/my_agent_v20/` - **The Honored One** (Our official Top 9 submission).
-- 📂 `agent/my_agent_v21/` - **Speed Optimized** (Further optimized A* target-slicing).
-- 📂 `agent/my_agent_v24/` - **The True King** (The final, most advanced 7-Layer variant with Tie-breaker exploitation).
-- 📂 `agent/archive_old_versions/` - Earlier iterations and baselines.
-- 📂 `docs_ai/` - In-depth technical explanation of algorithms and meta-strategies.
+**1. 📖 Start with the Logic (Tư duy thuật toán):**
+Before diving into the code, check out [`docs_ai/ARCHITECTURE.md`](docs_ai/ARCHITECTURE.md). This document explains our core brain: The 7-Layer Behavior Tree and how we optimized the A* algorithm.
+
+**2. 💻 Jump to the Winning Code (Mã nguồn chính):**
+Don't get lost in the old versions! Go straight to **`agent/my_agent_v20/`** (The Honored One). This is the exact code that secured our Top 9 Global rank. 
+*   *Tip:* Pay special attention to the `agent.py` file to see our target-slicing and Temporal Escape BFS implementation.
+
+**3. ⚔️ See the Meta-hacks (Chiến thuật nâng cao):**
+Take a look at **`agent/my_agent_v24/`** (The True King) to see our experimental "Late-game Frenzy Mode" where we manipulated the game's tie-breaker rules (farming boxes and spamming safe bombs when idle).
+
+**4. 🔄 Explore the Evolution (Quá trình thử nghiệm):**
+Want to see how we grew? Browse the `agent/archive_old_versions/` directory to see our journey from a basic bot that kept crashing (Timeout) to a highly optimized agent.
+
+*(Note: We only kept `submission_v20.zip`, `submission_v21.zip`, and `submission_v24.zip` in the root folder as our official compiled tournament submissions. The rest were cleaned up for readability.)*
 
 ---
 
