@@ -1,0 +1,134 @@
+Team Name: Westside Fetel
+1,samnu,113.13,192
+2,HK_TNTT,112.16,994
+3,OsamaBiDaDen,111.96,425
+4,SengWueng,111.75,227
+5,Onlyfan,111.75,166
+6,Seed 6767,111.73,120
+7,TalonV2,111.65,844
+8,HCMUT,111.65,361
+9,TOP_BOMBERLAND_IN_HCMUS,111.52,347
+10,DipperxBill,111.49,605
+11,Talon,111.47,210
+12,Cuda,111.42,627
+13,Glitch,111.17,91
+14,Khô gà xé xợi,110.77,228
+15,Westside Fetel,110.52,153
+16,HITO HITO,110.42,374
+17,GCI-Lab,110.23,157
+18,Break and Run,110.15,1026
+19,Ngũ Linh,110.13,2127
+20,hbt,109.98,322
+21,heuristic,109.97,2105
+22,anh trai say hi,109.95,2487
+23,AF,109.77,353
+24,CVIU,109.5,243
+25,F3 Engineer,109.27,90
+26,NoName,109.21,331
+27,Trai thẳng,109.17,455
+28,GoodTeam,108.84,544
+29,Newbie,108.63,2164
+30,không thắng làm bò,108.54,228
+31,HackCompetitiveProgramming,108.26,320
+32,JobSeeker,108.1,2198
+33,Bombardino Crocodilo,108.07,315
+34,MatchaLatte,108.02,222
+35,ILYM,107.94,172
+36,SoloAlone,107.9,702
+37,The Rumbling,107.73,1233
+38,2 Thằng Tày,107.66,1119
+39,Crazy Crew,107.63,2004
+40,Tsar Bomba,107.62,264
+41,Q-agent,107.54,456
+42,TangKhoGa,107.41,123
+43,UTH@ChayNgayDi,107.38,2437
+44,Reze,107.26,2307
+45,edgerunner,107.23,252
+46,NPC,107.18,2572
+47,BombPointer,107.13,305
+48,Nam,107.03,2010
+49,âyaichalần,106.8,146
+50,undefined,106.76,1344
+51,fechagang,106.76,273
+52,The LightCore,106.74,139
+53,Odysse,106.62,478
+54,BDĐ,106.62,866
+55,TL,106.48,2152
+56,Tab Engineers,106.47,230
+57,The Gay Apprentices,106.3,1413
+58,ZeroPolicy,106.3,65
+59,SonGoku,106.25,571
+60,Sunflower,106.23,514
+61,Joker,106.15,1092
+62,Blockchainhehe,106.06,719
+63,DL,106.0,1237
+64,Vua,105.91,2376
+65,Hồng trà Ngô Gia,105.89,2203
+66,nmt,105.85,1005
+67,tacobib,105.83,3098
+68,AOne,105.68,517
+69,t1,105.61,1936
+70,HocDot,105.47,138
+71,MotChayTuTa,105.43,2677
+72,HUNTER,105.16,1026
+73,AOEC,105.14,2122
+74,Ngũ Dung,105.01,2363
+75,FalseNegative,104.99,115
+76,Sigma_Boys,104.87,2524
+77,Bubu Chacha,104.84,2305
+78,LuyHoc,104.79,109
+79,ABCXYZ,104.77,575
+80,BoomOnline,104.68,1522
+81,lesbian,104.46,1173
+82,Tôi bị bỏ rơi,104.28,297
+83,pHở LònG tÁI,104.28,668
+84,Bố,104.28,99
+85,ProbDec,104.2,275
+86,baldEagle,104.04,353
+87,Bomber,104.0,2288
+88,AIV,103.99,2094
+89,theemperor,103.98,1074
+90,Well,103.83,439
+91,null,103.64,2872
+92,NoToDo,103.41,247
+93,CrazyMen,103.31,1241
+94,Megumin,103.3,1414
+95,PACMAN,103.25,283
+96,Bina,103.06,1063
+97,Bug Slayers,102.94,158
+98,GFUS,102.93,2788
+99,skupa,102.9,1648
+100,49-er,102.48,2157
+101,Dailomattroi,102.3,2060
+102,GAgent,101.94,1149
+103,T&P,101.88,536
+104,YuneD,101.72,2124
+105,Mini,101.56,1093
+106,LittleManAndFatBoy,101.52,766
+107,LegendOfTran,101.42,1965
+108,Larper,100.99,1176
+109,CP,100.91,921
+110,H&K,100.72,2148
+111,Bé khỏe bé ngoan,100.22,196
+112,Farm tí aura,99.96,2184
+113,Brainrot,99.14,779
+114,Double_2T,99.1,296
+115,HuPo,98.57,420
+116,HCMUT.Thế mà lại _ay,98.36,84
+117,Gradient Descenders,97.44,567
+118,Boombayah,97.07,372
+119,ChickenUS08,96.9,313
+120,Torque,96.75,1144
+121,TryHard,96.73,1756
+122,HumanAndRobot,96.7,13
+123,Bakudan,96.37,26
+124,MoneyHunter,96.24,1229
+125,HD4K,95.74,1118
+126,Null Pointers,95.48,3056
+127,Golden Pig,95.42,1091
+128,t2,94.78,4654
+129,Prompter X Bommer,93.82,1682
+130,A normal student at HCMUS,93.33,2579
+131,Doublus,91.29,1154
+132,t0,89.27,2600
+MY_REAL_RANK: 15
