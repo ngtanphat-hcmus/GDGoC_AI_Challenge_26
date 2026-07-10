@@ -19,7 +19,7 @@
 
 ---
 
-## 🤖 Human-AI Collaborative Development
+## Human-AI Collaborative Development
 
 This project embraces the modern **Human-AI Collaborative Engineering** approach. While the core strategic logic, architectural design (such as the 7-Layer Behavior Tree), and algorithmic ideas were conceived and directed entirely by our team members, approximately 60-70% of the raw codebase was generated and iteratively refined with the assistance of Large Language Models (LLMs). 
 
@@ -36,13 +36,13 @@ We missed the Grand Finals ticket by a microscopic gap of **0.04 TrueSkill Score
 
 ---
 
-## 🧠 Core Technical Highlights
+## Core Technical Highlights
 
 What makes our agent unique is its ability to bypass performance bottlenecks and exploit the engine's meta-game scoring rules.
 
 ### 1. The 7-Layer Behavior Tree (Priority Decision-making)
 Instead of deep Reinforcement Learning (which is unpredictable and slow), we engineered a deterministic, layered priority tree. Every tick, the agent evaluates the grid and makes decisions based on 7 critical layers (ranging from immediate survival to strategic tie-breaker exploits).
-👉 *See [docs_ai/ARCHITECTURE.md](docs_ai/ARCHITECTURE.md) for full algorithmic details.*
+ *See [docs_ai/ARCHITECTURE.md](docs_ai/ARCHITECTURE.md) for full algorithmic details.*
 
 ### 2. Overcoming the 100ms Inference Limit
 A standard A* algorithm running across a large grid with multiple enemies causes timeouts, resulting in the bot freezing. We optimized our A* by:
@@ -59,21 +59,21 @@ Our AI features a **Late-game Frenzy Mode**: If `step > 350`, it prioritizes bre
 
 ---
 
-## 🗺️ How to Navigate This Repository
+## How to Navigate This Repository
 
 If you are a recruiter, an AI enthusiast, or just curious about our solution, here is the recommended path to explore this project:
 
-**1. 📖 Start with the Logic:**
+**1. Start with the Logic:**
 Before diving into the code, check out [`docs_ai/ARCHITECTURE.md`](docs_ai/ARCHITECTURE.md). This document explains our core brain: The 7-Layer Behavior Tree and how we optimized the A* algorithm.
 
-**2. 💻 Jump to the Winning Code:**
+**2. Jump to the Winning Code:**
 Don't get lost in the old versions! Go straight to **`agent/my_agent_v20/`** (The Honored One). This is the exact code that secured our Top 9 Global rank. 
 *   *Tip:* Pay special attention to the `agent.py` file to see our target-slicing and Temporal Escape BFS implementation.
 
-**3. ⚔️ See the Meta-hacks:**
+**3. See the Meta-hacks:**
 Take a look at **`agent/my_agent_v24/`** (The True King) to see our experimental "Late-game Frenzy Mode" where we manipulated the game's tie-breaker rules (farming boxes and spamming safe bombs when idle).
 
-**4. 🔄 Explore the Evolution (Quá trình thử nghiệm):**
+**4. Explore the Evolution (Quá trình thử nghiệm):**
 Want to see how we grew? Browse the `agent/archive_old_versions/` directory to see our journey from a basic bot that kept crashing (Timeout) to a highly optimized agent.
 
 > **Our Development Journey (From Zero to Top 9):**
@@ -90,7 +90,7 @@ Want to see how we grew? Browse the `agent/archive_old_versions/` directory to s
 
 ---
 
-## 🤝 Team & Contributions
+## Team & Contributions
 
 This project was a collaborative effort. We split the workload to move fast, and both of us used AI tools to speed up the coding process.
 
@@ -100,8 +100,7 @@ This project was a collaborative effort. We split the workload to move fast, and
 
 ---
 
-### 🖥️ How to Run (Local Simulation)
-
+### How to Run (Local Simulation)
 **1. Clone the repository:**
 ```bash
 git clone https://github.com/ngtanphat-hcmus/GDGoC_AI_Challenge_26.git
@@ -122,6 +121,6 @@ python main.py --agent agent/my_agent_v20 --players 4 --render
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
