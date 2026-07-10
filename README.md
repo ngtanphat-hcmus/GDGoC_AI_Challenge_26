@@ -100,9 +100,22 @@ This project was a collaborative effort. We split the workload to move fast, and
 
 ---
 
-### How to Run (Local Simulation)
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run a match using our Top 9 agent:
+### 🖥️ How to Run (Local Simulation)
+
+**1. Clone the repository:**
+```bash
+git clone https://github.com/ngtanphat-hcmus/GDGoC_AI_Challenge_26.git
+cd GDGoC_AI_Challenge_26
+```
+
+**2. Install dependencies:**
+Make sure you have Python 3.10 or newer installed. Then, install the required packages:
+```bash
+pip install -r requirements.txt
+```
+
+**3. Run a match using our Top 9 agent:**
+Watch "The Honored One" (V20) in action against 3 default dummy agents with visual rendering enabled:
 ```bash
 python main.py --agent agent/my_agent_v20 --players 4 --render
 ```
