@@ -68,13 +68,13 @@ Take a look at **`agent/my_agent_v24/`** (The True King) to see our experimental
 **4. 🔄 Explore the Evolution (Quá trình thử nghiệm):**
 Want to see how we grew? Browse the `agent/archive_old_versions/` directory to see our journey from a basic bot that kept crashing (Timeout) to a highly optimized agent.
 
-> **Our Development Journey (Từ con số 0 đến Top 9):**
-> * **V1 - V9 (The Struggle):** Khởi đầu với những dòng code rule-based thô sơ. Bot liên tục bị timeout, tự đặt bom tự sát hoặc kẹt vào góc tường. 
-> * **V10 - V19 (The A* Breakthrough):** Bước ngoặt lớn. Chúng tôi dành nhiều đêm để debug thuật toán tìm đường A* và quét an toàn BFS (Breadth-First Search). Bot đã biết "né bom" để sinh tồn, nhưng chưa thực sự biết cách tấn công hiệu quả.
-> * **V20 - V21 (The Honored One):** Đỉnh cao thuật toán. Đập đi xây lại toàn bộ với kiến trúc "7-Layer Behavior Tree" (Cây hành vi 7 lớp ưu tiên). Bot đã biết linh hoạt chuyển đổi giữa Trốn chạy - Săn mồi - Phá gỗ tùy tình huống. Phiên bản V20 chính thức đưa team vào Top 9 Global.
-> * **V24 (The True King):** Vượt qua tư duy lập trình thông thường để đánh "Meta-game". Khi phát hiện ra luật Tie-breaker (hòa sẽ xét điểm), chúng tôi code thêm tính năng "Frenzy Mode" - tối ưu cơ chế farm gỗ tự động trong giai đoạn cuối game để giành chiến thắng bằng điểm số.
+> **Our Development Journey (From Zero to Top 9):**
+> * **V1 - V9 (The Struggle):** Started with basic rule-based logic. The bot constantly suffered from timeouts, suicidal bomb placements, and getting stuck in corners.
+> * **V10 - V19 (The A* Breakthrough):** A major turning point. We spent countless nights debugging the A* pathfinding algorithm and BFS (Breadth-First Search) for safety scanning. The bot finally learned how to "dodge bombs" to survive, but it still lacked effective attacking capabilities.
+> * **V20 - V21 (The Honored One):** The algorithmic peak. We rebuilt everything from scratch using a "7-Layer Behavior Tree" architecture. The bot could seamlessly switch between Fleeing, Hunting, and Wood-Farming depending on the context. V20 officially secured our Top 9 Global rank.
+> * **V24 (The True King):** Pushing beyond standard game programming to play the "Meta-game". Upon discovering the Tie-breaker rule (ties are decided by points), we implemented a "Frenzy Mode" - optimizing the auto-farming mechanism in the late game to secure victories through raw points.
 > 
-> *Bài học quý giá nhất của team không phải là tìm ra thuật toán hoàn hảo ngay từ đầu, mà là sự kiên trì phân tích log của hàng trăm trận đấu thất bại, từ đó liên tục đập đi xây lại kiến trúc để tối ưu từng millisecond xử lý.*
+> *Our most valuable lesson wasn't about finding the perfect algorithm from day one, but the persistence in analyzing logs from hundreds of failed matches, and continuously tearing down and rebuilding our architecture to optimize every millisecond of processing time.*
 
 *(Note: We only kept `submission_v20.zip`, `submission_v21.zip`, and `submission_v24.zip` in the root folder as our official compiled tournament submissions. The rest were cleaned up for readability.)*
 
