@@ -74,10 +74,10 @@ Want to see how we grew? Browse the `agent/archive_old_versions/` directory to s
 
 ## 🤝 Team & Contributions
 
-This project was a collaborative effort. We split the workload to ensure maximum efficiency in a short hackathon timeframe.
+This project was a collaborative effort. We split the workload to move fast, and both of us used AI tools to speed up the coding process.
 
-- **Nguyễn Tấn Phát (Project Owner / Lead):** Responsible for repository structure, CI/CD, game engine integration, baseline setup, and testing infrastructure.
-- **Hoàng Kim Phát Tài (Core Algorithm Developer):** Responsible for designing the AI logic, implementing A* pathfinding, Temporal Escape BFS, the 7-Layer Behavior Tree, debugging server-side Timeout issues, and Meta-game Tie-breaker strategies.
+* **Nguyễn Tấn Phát (Project Lead):** Guided the overall project direction and ideas. Responsible for setting up the GitHub repository, CI/CD, game engine integration, and the testing environment. Also proposed the first algorithmic approaches and used AI to quickly build the early baseline models, which set a strong foundation for the team.
+* **Hoàng Kim Phát Tài (Core Algorithm Developer):** Focused on designing the detailed AI logic, specifically the 7-Layer Behavior Tree. Worked closely with AI models to write complex algorithms like A* pathfinding and BFS. Spent a lot of time debugging AI-generated code to fix server timeouts and make the tie-breaker strategies work.
 
 
 ---
