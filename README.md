@@ -67,10 +67,9 @@ To keep the repository clean and professional, we have isolated our best-perform
 
 This project was a collaborative effort. We split the workload to ensure maximum efficiency in a short hackathon timeframe.
 
-- **Hoàng Kim Phát Tài (Project Owner / Lead):** Responsible for repository structure, CI/CD, game engine integration, baseline setup, and testing infrastructure.
-- **Nguyễn Tấn Phát (Core Algorithm Developer):** Responsible for designing the AI logic, implementing A* pathfinding, Temporal Escape BFS, the 7-Layer Behavior Tree, debugging server-side Timeout issues, and Meta-game Tie-breaker strategies.
+- **Nguyễn Tấn Phát (Project Owner / Lead):** Responsible for repository structure, CI/CD, game engine integration, baseline setup, and testing infrastructure.
+- **Hoàng Kim Phát Tài (Core Algorithm Developer):** Responsible for designing the AI logic, implementing A* pathfinding, Temporal Escape BFS, the 7-Layer Behavior Tree, debugging server-side Timeout issues, and Meta-game Tie-breaker strategies.
 
-*(Ghi chú: Nếu vai trò Owner/Core của 2 bạn ngược lại, bạn chỉ cần hoán đổi tên cho nhau ở dòng trên nhé!)*
 
 ---
 
