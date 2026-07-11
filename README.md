@@ -73,7 +73,7 @@ Don't get lost in the old versions! Go straight to **`agent/my_agent_v20/`** (Th
 **3. See the Meta-hacks:**
 Take a look at **`agent/my_agent_v24/`** (The True King) to see our experimental "Late-game Frenzy Mode" where we manipulated the game's tie-breaker rules (farming boxes and spamming safe bombs when idle).
 
-**4. Explore the Evolution (Quá trình thử nghiệm):**
+**4. Explore the Evolution:**
 Want to see how we grew? Browse the `agent/archive_old_versions/` directory to see our journey from a basic bot that kept crashing (Timeout) to a highly optimized agent.
 
 > **Our Development Journey (From Zero to Top 9):**
